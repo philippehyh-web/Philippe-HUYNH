@@ -1,6 +1,5 @@
 # Philippe HUYNH - Portfolio
-Bienvenue sur mon Portfolio 
-Étudiant en M2 Data Science à Paris-Saclay | Mathématiques Appliquées & Programmation
+Bienvenue sur mon Portfolio je suis un étudiant en M2 Data Science à Paris-Saclay | Mathématiques Appliquées & Programmation
 
 <p>
   <a href="https://www.linkedin.com/in/philippe-huynh-0b2579333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
