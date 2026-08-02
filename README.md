@@ -16,20 +16,22 @@ Contact direct : [philippehyh@gmail.com](mailto:philippehyh@gmail.com)
 
 En septembre 2026, je fais ma rentrée en Master 2 Data Science (parcours Santé, Assurance, Finance) à l'Université Paris-Saclay. Avant ça, j'ai validé un M1 en mathématiques pures et appliquées à l'UPEC. J'aime faire le pont entre les fondements théoriques (probabilités, statistiques, machine learning) et la technique pure pour exploiter les données.
 
-Je cherche actuellement un contrat d'apprentissage de 12 mois pour la rentrée 2026 en tant que Data Scientist, Data Analyst ou Data Engineer. Je cible principalement Paris et sa région (notamment l'Est parisien / 93). 
-Pour information, mon rythme d'alternance sera de 2 jours en entreprise et 3 jours à l'université, avec un passage à temps plein en entreprise à partir d'avril 2027.
+Je cherche actuellement un contrat d'apprentissage de 12 mois pour la rentrée 2026 sur des postes de **Data Scientist, Data Analyst ou Data Engineer**. Je cible principalement Paris et sa région (notamment l'Est parisien / 93). 
+Pour information, mon rythme d'alternance sera de **2 ou 3 jours en entreprise par semaine**, avec un passage à temps plein (100% en entreprise) à partir d'avril 2027.
 
 ---
 
 ### Compétences Techniques
 
-Plutôt que de faire une simple liste d'outils, voici comment je travaille au quotidien :
+Plutôt que de faire une simple liste, voici comment j'utilise ces outils au quotidien :
 
-Côté code, j'utilise beaucoup **Python**, notamment pour l'analyse et la visualisation de données. Je me sers au quotidien des bibliothèques comme Pandas et NumPy pour la manipulation, et Matplotlib pour l'affichage graphique. J'utilise aussi Scikit-Learn pour la partie Machine Learning. 
+Côté code, j'utilise beaucoup Python pour l'analyse et la visualisation de données, ainsi que pour modéliser des algorithmes. Je maîtrise SQL pour requêter les bases de données et extraire les informations dont j'ai besoin, et j'utilise R pour la partie purement statistique et analytique. Quand il s'agit de restituer l'information et de faire de la DataViz, je passe sur Power BI ou Power Query pour construire des tableaux de bord clairs. Enfin, venant d'un cursus mathématique, je suis très à l'aise avec la rédaction scientifique informatisée.
 
-Je maîtrise **SQL** pour requêter les bases de données et extraire les informations dont j'ai besoin, et j'utilise **R** pour la partie purement statistique. Quand il s'agit de restituer l'information et de faire de la DataViz, je passe sur **Power BI** ou **Excel** pour construire des dashboards clairs et exploitables. 
-
-Enfin, venant d'un cursus mathématique, je rédige mes documents scientifiques en **LaTeX** et je suis très à l'aise avec la modélisation complexe.
+**En résumé :**
+- **Langages & Data Science :** Python (Pandas, NumPy, Matplotlib, Scikit-Learn), R, SQL.
+- **DataViz & Business Intelligence :** Power BI, Power Query.
+- **Bureautique :** Je maîtrise très bien le Pack Office de manière générale (Excel, Word, PowerPoint).
+- **Outils Scientifiques :** LaTeX (notamment sur la plateforme en ligne Overleaf, sur laquelle j'ai codé l'intégralité de mon mémoire de Master 1).
 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -71,7 +73,7 @@ Ce projet se concentre sur l'extraction de données via requêtes SQL complexes 
 ### Personnalité et Loisirs
 
 - **Armée et Arts Martiaux :** Je suis Réserviste Opérationnel au sein de l'Armée de Terre (AMSD Fontainebleau), ce qui m'apporte beaucoup de rigueur. En complément parfait de cette activité, je pratique le Jiu-Jitsu (je suis ceinture marron). Je le fais avant tout pour la self-défense, mais c'est aussi un sport qui m'a appris à ne rien lâcher face à un problème.
-- **Lecture et Psychanalyse :** Je m'intéresse beaucoup à la psychologie humaine et à la littérature moderne. Je lis pas mal d'auteurs comme Sigmund Freud ou Robert Greene. J'aime bien analyser la mécanique mentale des individus, comprendre comment les gens fonctionnent et interagissent.
+- **Lecture et Psychologie :** Je m'intéresse beaucoup à la psychologie humaine et à la littérature moderne. Je lis pas mal d'auteurs comme Sigmund Freud ou Robert Greene. J'aime bien analyser la mécanique mentale des individus, comprendre comment les gens fonctionnent et interagissent.
 
 ---
 Si mon profil vous intéresse ou que vous avez des opportunités en lien avec la donnée, n'hésitez pas à m'envoyer un message !
