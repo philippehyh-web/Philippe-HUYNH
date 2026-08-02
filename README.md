@@ -21,14 +21,16 @@ Pour information, mon rythme d'alternance sera de **2 ou 3 jours en entreprise p
 
 ---
 
-### Compétences Techniques
+### Compétences Techniques & Méthode de Travail
 
 Plutôt que de faire une simple liste, voici comment j'utilise ces outils au quotidien :
 
 Côté code, j'utilise beaucoup Python pour l'analyse et la visualisation de données, ainsi que pour modéliser des algorithmes. Je maîtrise SQL pour requêter les bases de données et extraire les informations dont j'ai besoin, et j'utilise R pour la partie purement statistique et analytique. Quand il s'agit de restituer l'information et de faire de la DataViz, je passe sur Power BI ou Power Query pour construire des tableaux de bord clairs. Enfin, venant d'un cursus mathématique, je suis très à l'aise avec la rédaction scientifique informatisée.
 
+Au-delà des outils que je maîtrise déjà, je tiens à souligner un point important : **je suis d'un naturel très curieux et j'apprends vite**. Si je suis confronté à un problème technique ou qu'il me manque une compétence spécifique pour avancer sur un projet, je suis tout à fait capable de faire mes propres recherches de manière autonome. J'ai notamment l'habitude de m'appuyer sur des outils d'intelligence artificielle (comme Gemini, ChatGPT ou Claude) pour comprendre rapidement de nouveaux concepts, me débloquer sur du code, et trouver les bonnes solutions.
+
 **En résumé :**
-- **Langages & Data Science :** Python (Pandas, NumPy, Matplotlib, Scikit-Learn), R, SQL.
+- **Langages & Data Science :** Python (Pandas, NumPy, Matplotlib), R, SQL.
 - **DataViz & Business Intelligence :** Power BI, Power Query.
 - **Bureautique :** Je maîtrise très bien le Pack Office de manière générale (Excel, Word, PowerPoint).
 - **Outils Scientifiques :** LaTeX (notamment sur la plateforme en ligne Overleaf, sur laquelle j'ai codé l'intégralité de mon mémoire de Master 1).
@@ -50,7 +52,7 @@ Côté code, j'utilise beaucoup Python pour l'analyse et la visualisation de don
 - [Consulter le mémoire complet (Google Drive)](https://drive.google.com/drive/folders/15kXAJ2C54YcUWv_9jiVgyMHd1xQ2zBi_)
 
 #### 2. Projet Machine Learning : Prédiction des risques financiers (En cours)
-Je suis actuellement en train de finaliser ce projet de classification. Il englobe le nettoyage de données, le feature engineering et l'entraînement de modèles prédictifs. 
+Je suis actuellement en train de finaliser ce projet de classification. Il englobe le nettoyage de données, le feature engineering et la modélisation mathématique. 
 *(Je rajouterai le lien du repository GitHub une fois le code finalisé).*
 
 #### 3. Projet Data Analysis : Santé (En cours)
