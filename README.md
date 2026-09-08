@@ -50,9 +50,9 @@ Au-delà des outils que je maîtrise déjà, je tiens à souligner un point impo
 Étude approfondie et démonstration des fondements de l'analyse complexe dans le cadre de mon mémoire de recherche en mathématiques. Le projet a été entièrement structuré et rédigé sous LaTeX.
 - [Consulter le mémoire complet (Google Drive)](https://drive.google.com/drive/folders/15kXAJ2C54YcUWv_9jiVgyMHd1xQ2zBi_)
 
-#### 2. Projet Machine Learning : Prédiction des risques financiers (En cours)
+#### 2. Projet Machine Learning : Prédiction des risques financiers
 Je suis actuellement en train de finaliser ce projet de classification. Il englobe le nettoyage de données, le feature engineering et la modélisation mathématique. 
-*(Je rajouterai le lien du repository GitHub une fois le code finalisé).*
+(https://github.com/philippehyh-web/Projet-1-Pr-diction-des-Risques-Financiers-Machine-Learning-)
 
 #### 3. Projet Data Analysis : Santé (En cours)
 Ce projet se concentre sur l'extraction de données via requêtes SQL complexes et la conception d'un dashboard interactif. Je le peaufine encore de mon côté.
