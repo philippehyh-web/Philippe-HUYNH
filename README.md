@@ -53,7 +53,7 @@ Au-delà des outils que je maîtrise déjà, je tiens à souligner un point impo
 #### 2. Projet Machine Learning : Prédiction des risques financiers
 Je suis actuellement en train de finaliser ce projet de classification. Il englobe le nettoyage de données, le feature engineering et la modélisation mathématique. 
 
-- https://github.com/philippehyh-web/Projet-1-Pr-diction-des-Risques-Financiers-Machine-Learning-
+- [Lien Projet Machine Learning : Prédiction des risques financiers](https://github.com/philippehyh-web/Projet-1-Pr-diction-des-Risques-Financiers-Machine-Learning-)
 
 #### 3. Projet Data Analysis : Santé (En cours)
 Ce projet se concentre sur l'extraction de données via requêtes SQL complexes et la conception d'un dashboard interactif. Je le peaufine encore de mon côté.
