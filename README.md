@@ -46,23 +46,23 @@ Au-delà des outils que je maîtrise déjà, je tiens à souligner un point impo
 
 ## 🚀 Portfolio Projets
 
-### 1. Théorème de Représentation Conforme de Riemann (Mémoire M1)
-Étude approfondie et démonstration des fondements de l'analyse complexe dans le cadre de mon mémoire de recherche en mathématiques. Le projet a été entièrement structuré et rédigé sous LaTeX/Overleaf, prouvant ma rigueur théorique et ma capacité à vulgariser des concepts mathématiques de haut niveau.
-- [Consulter le mémoire complet (Google Drive)](https://drive.google.com/drive/folders/15kXAJ2C54YcUWv_9jiVgyMHd1xQ2zBi_)
-
-#### 2. Projet 1 Machine Learning en finance et assurance : Prédiction des risques financiers
+#### 1.  Projet 1 Machine Learning en finance et assurance : Prédiction des risques financiers
 Projet de classification et d'analyse exploratoire axé sur les risques bancaires, réalisé à partir de données de la Banque de France. Je finalise actuellement ce projet qui démontre ma capacité à traiter des données financières brutes :
 * **Data Cleaning & EDA :** Traitement des valeurs manquantes par imputation statistique (médiane) et exploration des distributions.
 * **Datavisualisation :** Création de graphiques d'évolution temporelle et d'histogrammes avec Python (Matplotlib).
 * **Modélisation :** Feature engineering et algorithmes de classification pour anticiper les risques.
 - [Lien Projet 1 Machine Learning : Prédiction des risques financiers](https://github.com/philippehyh-web/Projet-1-Prediction-des-Risques-Financiers-Machine-Learning-)
 
-#### 3. Projet 2 Data Analysis : Santé et assurance
+#### 2.  Projet 2 Data Analysis : Santé et assurance
 Projet analytique de bout en bout modélisant l'évolution et les coûts des pathologies chroniques en France (2015-2024) à partir des données de l'Assurance Maladie. Ce projet illustre ma maîtrise de la "stack" Data Analyst :
 * **Data Quality (Python) :** Scripting sous Pandas pour le nettoyage automatisé de multiples fichiers Excel, la gestion des erreurs de formatage et l'export de fichiers CSV propres.
 * **Manipulation (SQL) :** Création de requêtes complexes (jointures, agrégations) pour calculer le coût moyen par patient et le Top 10 des pathologies par effectif.
 * **Business Intelligence :** Conception d'un tableau de bord interactif sous Power BI (KPIs, cartographie, suivi des dépenses et tendances).
 - [Lien Projet 2 Data Analysis : Cartographie CNAM](https://github.com/philippehyh-web/Projet-2-Data-Quality-Analyse-des-pathologies-Cartographie-CNAM)
+
+### 3.  Théorème de Représentation Conforme de Riemann (Mémoire M1)
+Étude approfondie et démonstration des fondements de l'analyse complexe dans le cadre de mon mémoire de recherche en mathématiques. Le projet a été entièrement structuré et rédigé sous LaTeX/Overleaf, prouvant ma rigueur théorique et ma capacité à vulgariser des concepts mathématiques de haut niveau.
+- [Consulter le mémoire complet (Google Drive)](https://drive.google.com/drive/folders/15kXAJ2C54YcUWv_9jiVgyMHd1xQ2zBi_)
   
 ---
 
