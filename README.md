@@ -16,7 +16,7 @@ Contact direct : [philippehyh@gmail.com](mailto:philippehyh@gmail.com)
 En septembre 2026, je fais ma rentrée en Master 2 Data Science (parcours Santé, Assurance, Finance) à l'Université Paris-Saclay. Avant ça, j'ai validé un M1 en mathématiques pures et appliquées à l'UPEC. J'aime faire le pont entre les fondements théoriques (probabilités, statistiques, machine learning) et la technique pure pour exploiter les données.
 
 Je cherche actuellement un contrat d'apprentissage de 12 mois pour la rentrée 2026 sur des postes de **Data Scientist, Data Analyst ou Data Engineer**. Je cible principalement Paris et sa région (notamment l'Est parisien / 93). 
-Pour information, mon rythme d'alternance sera de **2 ou 3 jours en entreprise par semaine**, avec un passage à temps plein (100% en entreprise) à partir d'avril 2027.
+Pour information, mon rythme d'alternance sera de **2 jours en entreprise par semaine**, avec un passage à temps plein (100% en entreprise) à partir du 20 d'avril 2027.
 
 ---
 
@@ -50,12 +50,12 @@ Au-delà des outils que je maîtrise déjà, je tiens à souligner un point impo
 Étude approfondie et démonstration des fondements de l'analyse complexe dans le cadre de mon mémoire de recherche en mathématiques. Le projet a été entièrement structuré et rédigé sous LaTeX.
 - [Consulter le mémoire complet (Google Drive)](https://drive.google.com/drive/folders/15kXAJ2C54YcUWv_9jiVgyMHd1xQ2zBi_)
 
-#### 2. Projet Machine Learning : Prédiction des risques financiers
+#### 2. Projet 1 Machine Learning en finance et assurance : Prédiction des risques financiers
 Je suis actuellement en train de finaliser ce projet de classification. Il englobe le nettoyage de données, le feature engineering et la modélisation mathématique. 
 
-- [Lien Projet Machine Learning : Prédiction des risques financiers](https://github.com/philippehyh-web/Projet-1-Pr-diction-des-Risques-Financiers-Machine-Learning-)
+- [Lien Projet 1 Machine Learning : Prédiction des risques financiers](https://github.com/philippehyh-web/Projet-1-Pr-diction-des-Risques-Financiers-Machine-Learning-)
 
-#### 3. Projet Data Analysis : Santé (En cours)
+#### 3. Projet 2 Data Analysis : Santé (En cours)
 Ce projet se concentre sur l'extraction de données via requêtes SQL complexes et la conception d'un dashboard interactif. Je le peaufine encore de mon côté.
 *(Le lien du projet sera ajouté prochainement).*
 
@@ -79,3 +79,5 @@ Ce projet se concentre sur l'extraction de données via requêtes SQL complexes 
 
 ---
 Si mon profil vous intéresse ou que vous avez des opportunités en lien avec la donnée, n'hésitez pas à m'envoyer un message !
+
+📫 **Me contacter :** [Mon LinkedIn](https://www.linkedin.com/in/philippe-huynh-0b2579333/)
