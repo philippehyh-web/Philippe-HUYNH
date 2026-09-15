@@ -29,10 +29,10 @@ Côté code, j'utilise beaucoup Python pour l'analyse et la visualisation de don
 Au-delà des outils que je maîtrise déjà, je tiens à souligner un point important : **je suis d'un naturel très curieux et j'apprends vite**. Si je suis confronté à un problème technique ou qu'il me manque une compétence spécifique pour avancer sur un projet, je suis tout à fait capable de faire mes propres recherches de manière autonome. J'ai notamment l'habitude de m'appuyer sur des outils d'intelligence artificielle (comme Gemini, ChatGPT ou Claude) pour comprendre rapidement de nouveaux concepts, me débloquer sur du code, et trouver les bonnes solutions.
 
 **En résumé :**
-- **Langages & Data Science :** Python (Pandas, NumPy, Matplotlib), R, SQL.
+- **Langages & Data Science :** Python (Pandas, NumPy, Matplotlib, scikit learn), R, SQL.
 - **DataViz & Business Intelligence :** Power BI, Power Query.
-- **Bureautique :** Je maîtrise très bien le Pack Office de manière générale (Excel, Word, PowerPoint).
-- **Outils Scientifiques :** LaTeX (notamment sur la plateforme en ligne Overleaf, sur laquelle j'ai codé l'intégralité de mon mémoire de Master 1).
+- **Bureautique :** Je maîtrise très bien le Pack Office de manière générale (Excel, Word, PowerPoint) et Canva, sony vegas pro.
+- **Outils Scientifiques :** LaTeX (notamment sur la plateforme en ligne Overleaf, sur laquelle j'ai codé l'intégralité de mon mémoire de Master 1) et l'IA (claude, ChatGPT , gemini ect..) en complémentaire.
 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
