@@ -85,4 +85,4 @@ Projet analytique de bout en bout modélisant l'évolution et les coûts des pat
 ---
 Si mon profil vous intéresse ou que vous avez des opportunités en lien avec la donnée, n'hésitez pas à m'envoyer un message !
 
-📫 **Me contacter :** [Mon LinkedIn](https://www.linkedin.com/in/philippe-huynh-0b2579333/)
+📫 **Me contacter :** [Mon LinkedIn]([https://www.linkedin.com/in/philippe-huynh-0b2579333/](https://www.linkedin.com/in/philippe-huynh-alternance-data-idf/))
